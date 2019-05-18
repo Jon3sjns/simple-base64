@@ -1,10 +1,13 @@
 # simple-base64
 
 #CopyRight-2019 by Billy
+
 #mau recode???
+
 #sertakan copyright yakkk:)
 
 #Base64 decription & enskription
+
 #cara mengggunakan tool ini ialah=
 
 1. pkg update && upgrade
@@ -15,4 +18,5 @@
 6. sh base64.sh
 
 #mau kenalan??? cek di tool saya yang kemarin!!!
+
 #disana ada nomor saya
